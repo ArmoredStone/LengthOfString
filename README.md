@@ -1,0 +1,2 @@
+# LengthOfString
+2
